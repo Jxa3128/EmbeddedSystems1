@@ -1,0 +1,10 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=macosx
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:testing,org.eclipse.launchbar.core.descriptorType.default\:Lab2_JorgeAvila,org.eclipse.launchbar.core.descriptorType.default\:lab1,org.eclipse.launchbar.core.descriptorType.default\:lab3_ja,org.eclipse.launchbar.core.descriptorType.default\:lab3b_jorgeavila,org.eclipse.launchbar.core.descriptorType.default\:lab4,org.eclipse.launchbar.core.descriptorType.default\:lab3_raj
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Lab2_JorgeAvila/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:Lab2_JorgeAvila/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:lab1/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:lab1/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:testing/activeLaunchMode=debug

@@ -1,0 +1,1 @@
+"./lab3a_jorgeavila.obj" "./tm4c123gh6pm_startup_ccs.obj" "../tm4c123gh6pm.cmd" -llibc.a 
